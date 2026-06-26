@@ -46,7 +46,7 @@ npm or yarn
 Installation
 
 bash# Clone the repository
-git clone https://github.com/YOUR_USERNAME/learn-and-play.git
+git clone https://github.com/zaafirnisthar/learn-and-play.git
 cd learn-and-play
 
 # Install dependencies
